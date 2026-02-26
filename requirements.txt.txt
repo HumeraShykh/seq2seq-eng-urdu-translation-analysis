@@ -1,0 +1,9 @@
+pandas
+numpy
+torch
+transformers
+sentencepiece
+deep-translator
+sacrebleu
+rouge-score
+tqdm

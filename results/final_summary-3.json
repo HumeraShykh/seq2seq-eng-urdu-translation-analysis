@@ -1,0 +1,15 @@
+{
+  "num_samples": 24524,
+  "avg_bleu_google": 13.820184939442075,
+  "avg_bleu_meta": 6.213545469514646,
+  "urdu_friendly_rouge_google": {
+    "rouge1": 0.16567121859340872,
+    "rouge2": 0.12070000631391872,
+    "rougeL": 0.16525669248996688
+  },
+  "urdu_friendly_rouge_meta": {
+    "rouge1": 0.11286330086917917,
+    "rouge2": 0.041723676610179866,
+    "rougeL": 0.11149154668577746
+  }
+}
